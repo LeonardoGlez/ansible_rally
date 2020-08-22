@@ -21,7 +21,7 @@ Extra Bonus. El contenido del sitio debe indicar cuál ambiente se esta presenta
 Existen varias formas de resolver esta primer vuelta, aqui te dejamos algunos tips:
 
 
-- Recuerda que no es necesario partir de cero, podemos partir de playbooks que ya hacen algo similar. Revisa las [git branches](https://ansible.github.io/workshops/exercises/ansible_rhel/2.6-workflows/)  puedes hacer un fork :)
+- Recuerda que no es necesario partir de cero, podemos partir de playbooks que ya hacen algo similar. Revisa las [git branches](https://ansible.github.io/workshops/exercises/ansible_rhel/2.6-workflows/) del ejercicio, puedes hacer un fork :)
 
 1. Puedes usar variables de Inventario para taggear los nodos (ejemplo variable stage: dev, stage: prod)
 Ref. [Aqui](https://ansible.github.io/workshops/exercises/ansible_rhel/2.7-wrap/)
