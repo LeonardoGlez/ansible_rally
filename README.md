@@ -1,4 +1,4 @@
-# Bienvenidos al Ansible Virtual Rally
+# Bienvenidos al Rally Virtual de Ansible
 
 [Acceso a ambientes](https://tinyurl.com/redhat-rally)
 
