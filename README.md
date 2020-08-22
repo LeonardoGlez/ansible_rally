@@ -4,7 +4,9 @@ En sus marcas, listos, fuera!!
 
 # Instrucciones
 
-Cada equipo contará con un entorno preconfigurado con acceso a los siguientes hosts:
+Cada equipo debe contar con una cuenta git para almacenar en un repositorio sus playbooks.
+
+Cada equipo tiene con un entorno preconfigurado con acceso a los siguientes hosts:
 
 | Role                         | Inventory name |
 | -----------------------------| ---------------|
@@ -25,6 +27,10 @@ O conectándose por SSH al control host en el archivo
 ```bash
 cat /home/student<X>/lab_inventory/hosts (modificando <X> por el número de su equipo). 
 ```
+
+Los proyectos usados en Tower harán referencia al repo del equipo
+
+Siempre puedes consultar el [Workshop](https://ansible.github.io/workshops/exercises/ansible_rhel/) para dudas.
 
 - [Estación 1 Despliegue y Soluciones](estacion1/README.md)
 
