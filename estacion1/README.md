@@ -31,3 +31,5 @@ Ref. [Aqui](https://ansible.github.io/workshops/exercises/ansible_rhel/2.7-wrap/
 3. Tal vez convenga usar roles :) Ref. [Roles](https://ansible.github.io/workshops/exercises/ansible_rhel/1.7-role/)
 
 Extra Bonus. Usar variables jinja2 dentro del archivo index.html con el módulo template. Ref. [Templates](https://ansible.github.io/workshops/exercises/ansible_rhel/1.6-templates/)
+
+Arrancamos!!
