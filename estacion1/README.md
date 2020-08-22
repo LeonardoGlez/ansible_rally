@@ -7,21 +7,19 @@ La Organización requiere el despliegue de una aplicación NodeJS en los ambient
 
 2. El software estándard para Web Server permitido por la organización es Apache Web Server. y Nginx, por lo que la plantilla de trabajo debe permitir elegir una de las dos opciones antes de su ejecución.
 
-3. Al realizar la elección del software, debe realizarse su instalación y configuración para que el servicio quede up & running.
+3. Al realizar la elección del software web server, debe realizarse su instalación y configuración para que el servicio quede up & running.
 
-4. Des
+4. Instalar y habilitar nodejs.
 
-4. Para asegurar la estandarización de los ambientes, el mismo archivo hello.js debe usarse para ambos ambientes
+5. Para asegurar la estandarización de los ambientes, el mismo archivo hello.js debe usarse para ambos ambientes
 
-  Extra Bonus. El contenido del sitio debe indicar cuál ambiente se esta presentando (DEV o PROD)
+Extra Bonus. El contenido del sitio debe indicar cuál ambiente se esta presentando (DEV o PROD)
 
 
 ## Tips
 
 Existen varias formas de resolver esta primer vuelta, aqui te dejamos algunos tips:
 
-- Uso de un Workflow para orquestación.
-Ref. [Workflows](https://ansible.github.io/workshops/exercises/ansible_rhel/2.6-workflows/)
 
 - Recuerda que no es necesario partir de cero, podemos partir de playbooks que ya hacen algo similar. Revisa las [git branches](https://ansible.github.io/workshops/exercises/ansible_rhel/2.6-workflows/)  puedes hacer un fork :)
 
