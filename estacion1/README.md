@@ -5,9 +5,11 @@ La Organización requiere el despliegue de una aplicación NodeJS en los ambient
 
 1. nodo1 y nodo2 corresponden al ambiente DEV y el nodo3 a PROD.
 
-2. El software estándard para Web Server permitido por la organización es Apache Web Server y Nginx, por lo que la plantilla de trabajo debe permitir elegir una de las dos opciones antes de su ejecución.
+2. El software estándard para Web Server permitido por la organización es Apache Web Server. y Nginx, por lo que la plantilla de trabajo debe permitir elegir una de las dos opciones antes de su ejecución.
 
 3. Al realizar la elección del software, debe realizarse su instalación y configuración para que el servicio quede up & running.
+
+4. Des
 
 4. Para asegurar la estandarización de los ambientes, el mismo archivo hello.js debe usarse para ambos ambientes
 
