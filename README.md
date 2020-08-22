@@ -17,7 +17,14 @@ Ansible Tower ya está instalado y preconfigurado con el inventario "Workshop In
 
 Accesa al ambiente asignado a tu equipo [Acceso a ambientes](https://tinyurl.com/redhat-rally) 
 
-Los nodos cuentan con direcciones IP públicas, se pueden consultar desde Tower en INVENTORIES / Workshop Inventory / HOSTS , variable ansible_host ó conectandose por SSH al control host en el archivo /home/student<X>/lab_inventory/hosts (modificando <X> por el número de su equipo). 
+Los nodos cuentan con direcciones IP públicas, se pueden consultar desde Tower en 
+```
+INVENTORIES / Workshop Inventory / HOSTS , variable ansible_host
+```
+O conectándose por SSH al control host en el archivo 
+```
+cat /home/student<X>/lab_inventory/hosts (modificando <X> por el número de su equipo). 
+```
 
 ## Estación 1 Despliegue y Soluciones
 
