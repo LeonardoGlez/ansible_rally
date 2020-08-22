@@ -1,4 +1,4 @@
-# Estacion 1
+# Estación 1
 ## Despliegue y configuración de una aplicación NodeJS
 
 La Organización requiere el despliegue de una aplicación NodeJS en los ambientes DEV y PROD. Se deben considerar los siguientes puntos:
