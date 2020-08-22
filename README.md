@@ -28,7 +28,7 @@ O conectándose por SSH al control host en el archivo
 cat /home/student<X>/lab_inventory/hosts (modificando <X> por el número de su equipo). 
 ```
 
-Los proyectos usados en Tower harán referencia al repo del equipo
+Los proyectos usados en Tower harán referencia al git repo del equipo.
 
 Siempre puedes consultar el [Workshop](https://ansible.github.io/workshops/exercises/ansible_rhel/) para dudas.
 
