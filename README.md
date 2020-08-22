@@ -1,8 +1,21 @@
 # Bienvenidos al Rally Virtual de Ansible
 
-[Acceso a ambientes](https://tinyurl.com/redhat-rally)
-
 En sus marcas, listos, fuera!!
+
+# Instrucciones
+
+Cada equipo contará con un entorno preconfigurado con acceso a los siguientes hosts:
+
+| Role                         | Inventory name |
+| -----------------------------| ---------------|
+| Ansible Control Host & Tower | ansible        |
+| Managed Host 1               | node1          |
+| Managed Host 2               | node2          |
+| Managed Host 2               | node3          |
+
+Ansible Tower ya está instalado y preconfigurado con el inventario "Workshop Inventory" con los node1,node2,node3 listos para usar.
+
+Accesa al ambiente asignado a tu equipo [Acceso a ambientes](https://tinyurl.com/redhat-rally) 
 
 ## Estación 1 Despliegue y Soluciones
 
