@@ -22,7 +22,7 @@ Los nodos cuentan con direcciones IP públicas, se pueden consultar desde Tower 
 INVENTORIES / Workshop Inventory / HOSTS , variable ansible_host
 ```
 O conectándose por SSH al control host en el archivo 
-```
+```bash
 cat /home/student<X>/lab_inventory/hosts (modificando <X> por el número de su equipo). 
 ```
 
