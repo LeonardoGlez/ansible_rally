@@ -30,7 +30,7 @@ cat /home/student<X>/lab_inventory/hosts (modificando <X> por el número de su e
 
 Los proyectos usados en Tower harán referencia al git repo del equipo.
 
-Siempre puedes consultar el [Workshop](https://ansible.github.io/workshops/exercises/ansible_rhel/) para dudas.
+Siempre puedes consultar el [Workshop](https://ansible.github.io/workshops/exercises/ansible_rhel/README.es.html) para dudas.
 
 - [Estación 1 Despliegue y Soluciones](estacion1/README.md)
 
