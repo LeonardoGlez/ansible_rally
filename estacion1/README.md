@@ -36,5 +36,5 @@ Extra Bonus.
 Extra 1.Usar variables jinja2 dentro del archivo index.html con el módulo template. Ref. [Templates](https://ansible.github.io/workshops/exercises/ansible_rhel/1.6-templates/README.es.html).
 
 
-Extra 2. Uso de Survey en Tower. Ref. [Surveys](https://ansible.github.io/workshops/exercises/ansible_rhel/2.4-surveys/README.es.html).
+Extra 2. Uso de Survey (Encuestas) en Tower. Ref. [Surveys](https://ansible.github.io/workshops/exercises/ansible_rhel/2.4-surveys/README.es.html).
 Arrancamos!!
