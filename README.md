@@ -1,6 +1,6 @@
 # Bienvenidos al Rally Virtual de Ansible
 
-![Ansible](Icon-Red_Hat-Transportation-Speedometer-A-Red-RGB.png)
+![Ansible](Icon-Red_Hat-Transportation-Speedometer-A-Red-RGB.svg)
 
 En sus marcas, listos, fuera!!
 
