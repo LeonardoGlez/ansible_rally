@@ -1,7 +1,7 @@
 # Estación 1
 ## Despliegue y configuración de una aplicación NodeJS
 
-La Organización requiere el despliegue de una aplicación NodeJS en los ambientes DEV y PROD. Se deben considerar los siguientes puntos:
+La Organización requiere el despliegue de una aplicación NodeJS en los ambientes DEV y PROD. Por medio de Ansible Tower se deberá automatizar el despliegue considerando los siguientes requerimientos:
 
 1. nodo1 corresponde al ambiente DEV, nodo2 y nodo3 a PROD.
 
