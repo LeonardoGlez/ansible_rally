@@ -15,7 +15,8 @@ La Organización requiere el despliegue de una aplicación NodeJS en los ambient
 
 # Extra Bonus 
 
-Extra 1. El contenido del sitio debe indicar cuál ambiente se esta presentando (DEV o PROD)
+Extra 1. El contenido del sitio debe indicar cuál ambiente se esta presentando (DEV o PROD).
+
 Extra 2. Se agregará al stack de software standard para Web Server el uso de Nginx, por lo que la plantilla de trabajo debe permitir elegir una de las dos opciones antes de su ejecución.
 
 
