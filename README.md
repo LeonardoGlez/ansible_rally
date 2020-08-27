@@ -35,7 +35,7 @@ Siempre puedes consultar el [Workshop](https://ansible.github.io/workshops/exerc
 
 - [Estación 1 Despliegue y Soluciones](estacion1/README.md)
 - [Estación 2 Servidores](estacion2/README.md)
-- [Estación 3 Seguridad](estacion3/EADME.md)
+- [Estación 3 Seguridad](estacion3/README.md)
 - [Estación 4 Redes y Soporte](estacion4/README.md)
 
 
