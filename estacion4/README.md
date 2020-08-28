@@ -11,7 +11,7 @@ Para optimizar el proceso, se requiere configurar en Ansible Tower lo siguiente:
 
 1. Plantilla de trabajo que permita obtener el respaldo de los routers que conforman la red:
 ## Diagrama de Red
-![Red Hat Ansible Automation](network_diagram.png)
+![Red Hat Ansible Automation](files/network_diagram.png)
 
 
 
