@@ -38,3 +38,41 @@ Una vez ejecutado el trabajo, verifica que se hayan generado los backups desde u
    ```
 
 ### Soporte
+La Organización ha solicitado al equipo de Soporte estandarizar las siguientes configuraciones en los equipos de usuario final con S.O. Windows:
+
+1. Usuario "ansible" con privilegios de administrador
+2. Instalación de "Telnet-Client"
+3. Instalación de IIS Web-Server con management tools
+4. Colocar el archivo neerdd.jpg en la ruta c:\Users\Administrator\Downloads
+5. Ejecutar el PowerShell script helloworld.ps1
+6. Obtener dirección IP del equipo
+7. Validar el estatus del win.ini
+
+El equipo de Soporte ya ha desarrollado el playbook ```tower-ansible-automating-windows.yml``` (en este sitio) que ejecuta ciertas tareas, pero les falta agregar las tareas 3 y 4.
+
+
+
+Se requiere ejecutar en Ansible Tower una plantilla de trabajo que ejecute los 7 puntos en el grupo "windows" del Inventario.
+
+
+### Tips
+
+
+3. Módulo win_feature
+
+4. Módulo win_copy
+
+
+En Ansible Tower debes agregar la siguiente Credencial para usarla con el grupo "windows" del Inventario
+
+| Key          | Value           |                                          |
+|--------------|-----------------|------------------------------------------|
+| Name         | Student Account |                                          |
+| Organization | Default         |                                          |
+| Type         | Machine         |                                          |
+| Username     | student#        | **Replace # with your student number**   |
+| Password     | *****           | Replace with your student password       |
+
+
+
+Ya estas por llegar a la META!!!!
