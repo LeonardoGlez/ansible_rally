@@ -22,7 +22,20 @@
        include_management_tools: True
      register: telnet
    - debug: var=telnet
-        
+   
+   - name: Install IIS Web-Server with sub features and management tools 
+     win_feature:
+      name: Web-Server
+      state: present
+      include_sub_features: yes
+      include_management_tools: yes
+     register: win_feature
+   
+   - name: Copy a single file
+     win_copy:
+      src: neerdd.jpg
+      dest: c:\Users\Administrator\Downloads
+   
    - name: Run a PowerShell Script
      script: files/helloworld.ps1
      register: script
