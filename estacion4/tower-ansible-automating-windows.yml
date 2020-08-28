@@ -34,7 +34,7 @@
    - name: Copy a single file
      win_copy:
       src: files/neerdd.jpg
-      dest: c:\Users\Administrator\Downloads
+      dest: c:\Users\Administrator\Downloads\neerdd.jpg
    
    - name: Run a PowerShell Script
      script: files/helloworld.ps1
