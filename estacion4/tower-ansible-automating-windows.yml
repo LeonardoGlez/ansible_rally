@@ -33,7 +33,7 @@
    
    - name: Copy a single file
      win_copy:
-      src: neerdd.jpg
+      src: files/neerdd.jpg
       dest: c:\Users\Administrator\Downloads
    
    - name: Run a PowerShell Script
